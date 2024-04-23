@@ -94,4 +94,7 @@ NTU SC1015 Content
 - https://www.youtube.com/watch?v=PxgVFp5a0E4 
 - https://youtu.be/4i4C3ejTdgs?si=XfCjQW5h-ABD0Bu9 
 - https://scikit-learn.sourceforge.net/dev/modules/model_evaluation.html 
-- https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.plot_importance 
+- https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.plot_importance
+- https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+- https://www.neuraldesigner.com/learning/tutorials/testing-analysis/
+- https://www.v7labs.com/blog/f1-score-guide
