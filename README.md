@@ -74,9 +74,9 @@ These are the slides we used for our presentation. It is a summary of the projec
 - Concepts about precision, Recall, F1 Score 
 
 ## Contributors 
-Lee Yi Yuan – Exploratory Data Analysis, XGBoost, Leader of the team 
-Wong Jing Han – Plotly Data Visualization, K-Means 
-Lee Lin Yang Glenn – Neural Networks, Presentation 
+Lee Yi Yuan (Leader) – Exploratory Data Analysis, XGBoost  
+Wong Jing Han – Plotly Data Visualization, K-Means  
+Lee Lin Yang Glenn – Neural Networks, Presentation  
 
 ## References 
 NTU SC1015 Content  
