@@ -15,7 +15,7 @@ This is a mini-project made for SC1015 – Introduction to Data Science and Arti
 
 ## Problem Definition 
 There’re many factors that contribute to the success of a movie, such as budget, gross, score, etc. In recent history, lots of films were met with unexpected success despite the low cost or supposed ‘bad’ reception by audience. Additionally, films which are not as relevant compared to such ‘famous’ movies still gained notable financial success. **Thus, we intend to find out if it is possible to predict the popularity/success of movies based on their characteristics?**
-Success defined by us: Gross amount is 1.5 times the Budget at least 
+- Success defined by us: Gross amount is 1.5 times the Budget at least 
 
 ## Content 
 ### Dataset: movies.csv 
@@ -74,23 +74,24 @@ These are the slides we used for our presentation. It is a summary of the projec
 - Concepts about precision, Recall, F1 Score 
 
 ## Contributors 
-Lee Yi Yuan (Leader) – Exploratory Data Analysis, XGBoost  
-Wong Jing Han – Plotly Data Visualization, K-Means  
-Lee Lin Yang Glenn – Neural Networks, Presentation  
+### FCS2 Team2 AY23/24 Sem 2
+Lee Yi Yuan (yiyuan906) – Exploratory Data Analysis, XGBoost  
+Wong Jing Han (wjhan785) – Plotly Data Visualization, K-Means  
+Lee Lin Yang Glenn (Ariesura) – Neural Networks, Presentation  
 
 ## References 
 NTU SC1015 Content  
-https://www.kaggle.com/datasets/danielgrijalvas/movies/data 
-https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv 
-https://realpython.com/k-means-clustering-python/ 
-https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html 
-https://plotly.com/python/ 
-https://www.kaggle.com/code/muhammadehabmuhammad/movies-industry-analysis-and-correlations 
-https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ 
-https://www.youtube.com/watch?v=aLOQD66Sj0g 
-https://contrib.scikit-learn.org/category_encoders/targetencoder.html 
-https://scikit-learn.org/stable/modules/cross_validation.html#stratification 
-https://www.youtube.com/watch?v=PxgVFp5a0E4 
-https://youtu.be/4i4C3ejTdgs?si=XfCjQW5h-ABD0Bu9 
-https://scikit-learn.sourceforge.net/dev/modules/model_evaluation.html 
-https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.plot_importance 
+- https://www.kaggle.com/datasets/danielgrijalvas/movies/data
+- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv 
+- https://realpython.com/k-means-clustering-python/ 
+- https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html 
+- https://plotly.com/python/ 
+- https://www.kaggle.com/code/muhammadehabmuhammad/movies-industry-analysis-and-correlations 
+- https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ 
+- https://www.youtube.com/watch?v=aLOQD66Sj0g 
+- https://contrib.scikit-learn.org/category_encoders/targetencoder.html 
+- https://scikit-learn.org/stable/modules/cross_validation.html#stratification 
+- https://www.youtube.com/watch?v=PxgVFp5a0E4 
+- https://youtu.be/4i4C3ejTdgs?si=XfCjQW5h-ABD0Bu9 
+- https://scikit-learn.sourceforge.net/dev/modules/model_evaluation.html 
+- https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.plot_importance 
