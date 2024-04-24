@@ -80,7 +80,7 @@ Wong Jing Han (wjhan785) – Plotly Data Visualization, K-Means
 Lee Lin Yang Glenn (Ariesura) – Neural Networks, Presentation  
 
 ## References 
-NTU SC1015 Content  
+- NTU SC1015 Content  
 - https://www.kaggle.com/datasets/danielgrijalvas/movies/data
 - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv 
 - https://realpython.com/k-means-clustering-python/ 
